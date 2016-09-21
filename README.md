@@ -9,3 +9,4 @@ Just another repository
 Vouala un [peu de texte car je sais vraiment pas quoi ecrire ...
 amelioration-1.0
 
+This in nonsense. May I allow myself to introduce some new concepts here ?
